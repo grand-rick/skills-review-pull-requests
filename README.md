@@ -6,7 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+<!-- Patrick is awesome -->
 # Review pull requests
 
 _Collaborate and work together on GitHub._
